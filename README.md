@@ -1,2 +1,2 @@
 # datas
-Toutes les données des consultations / concertations membres du collectif
+Toutes les données brutes des consultations / concertations membres du collectif
